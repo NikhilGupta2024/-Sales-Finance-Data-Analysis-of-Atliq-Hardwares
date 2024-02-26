@@ -1,4 +1,4 @@
-🌟 Atliq Hardware Sales and Finance Insights
+Project : Sales and Finance Analysis - AtliQ Hardware
 
 Atliq hardware company supplies computer hardware and peripherals (like desktop, headphone, pen drive, webcam, speaker, mouse etc.) to many of the clients like Excel store, Nomad Stores, Surge Stores, Electricalsara Stores across India. It has head office in Delhi and lots of regional offices throughout India.
 
