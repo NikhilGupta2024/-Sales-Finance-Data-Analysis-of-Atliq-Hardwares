@@ -4,12 +4,9 @@ Project : Sales and Finance Analysis - AtliQ Hardware
 
 Table of Contents:
 
-Problem Statement 
-
+•  Problem Statement 
 Data Discovery
-
 Data Analysis using MySQL
-
 Data Cleaning and ETL (Extract, Transform, Load) 
 Data Modeling
 Data Analysis (DAX)
