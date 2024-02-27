@@ -1,6 +1,7 @@
 Project : Sales and Finance Analysis - AtliQ Hardware
 
-![image](https://github.com/NikhilGupta2024/Sales-and-Finance-Analysis-of-Atliq-Hardwares/assets/158210072/0cf73a1a-b5cc-4038-a347-8c39fd585ae9)
+![image](https://github.com/NikhilGupta2024/Sales-and-Finance-Analysis-of-Atliq-Hardwares/assets/158210072/3b12cb93-cbbd-48f1-a093-77ba126401b1)
+
 
 Table of Contents:
 
