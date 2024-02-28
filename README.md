@@ -3,16 +3,18 @@ Project : Sales and Finance Analysis - AtliQ Hardware
 ![image](https://github.com/NikhilGupta2024/Sales-and-Finance-Analysis-of-Atliq-Hardwares/assets/158210072/3b12cb93-cbbd-48f1-a093-77ba126401b1)
 
 
-Table of Contents:
+	Table of Contents:
 
-   •  Problem Statement                                                                                                                   
-   •  Data Discovery                                                                                                                    
-   •  Data Analysis using MySQL                                                                                                              •  Data Cleaning and ETL (Extract, Transform, Load) 
-Data Modeling
-Data Analysis (DAX)
-Build Dashboard Or a Report
-Tools, Software and Libraries
-References
+•  Problem Statement
+•  Data Discovery
+•  Data Analysis using MySQL
+•  Data Cleaning and ETL (Extract, Transform, Load)
+•  Data Modeling
+•  Data Analysis (DAX)
+•  Build Dashboard Or a Report
+•  Tools, Software and Libraries
+•  References
+
 
 Atliq hardware company supplies computer hardware and peripherals (like desktop, headphone, pen drive, webcam, speaker, mouse etc.) to many of the clients like Excel store, Nomad Stores, Surge Stores, Electricalsara Stores across India. It has head office in Delhi and lots of regional offices throughout India.
 
