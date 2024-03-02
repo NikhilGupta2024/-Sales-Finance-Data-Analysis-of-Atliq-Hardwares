@@ -7,28 +7,17 @@
 ![image](https://github.com/NikhilGupta2024/Sales-and-Finance-Analysis-of-Atliq-Hardwares/assets/158210072/15d48956-ec90-418a-905b-56f7135a6b0b)
 
 
+![image](https://github.com/NikhilGupta2024/Sales-and-Finance-Analysis-of-Atliq-Hardwares/assets/158210072/545b5d28-2503-4489-a98f-5222e85a6d5e)
+
+
+![image](https://github.com/NikhilGupta2024/Sales-and-Finance-Analysis-of-Atliq-Hardwares/assets/158210072/4cda6139-03bd-48b4-b56a-759ce0d4dc65)
+
+![image](https://github.com/NikhilGupta2024/Sales-and-Finance-Analysis-of-Atliq-Hardwares/assets/158210072/88be22fc-b4de-408e-b990-6c13e4b5c284)
+
+![image](https://github.com/NikhilGupta2024/Sales-and-Finance-Analysis-of-Atliq-Hardwares/assets/158210072/6c2a0edd-f8a4-42a2-a5d2-d1d591883a23)
 
 
 
-
-
-
-
-Atliq hardware company supplies computer hardware and peripherals (like desktop, headphone, pen drive, webcam, speaker, mouse etc.) to many of the clients like Excel store, Nomad Stores, Surge Stores, Electricalsara Stores across India. It has head office in Delhi and lots of regional offices throughout India.
-
- Sales Director of Atliq Hardwares  is facing a lot of challenges in terms of tracking the sales growth in the market as overall sales are declining. So he wants us to design a Sales and Finance Report for the Company so that he can get proper insights and can take data driven decision to increase sales of the company
-
-
-
- 🪜 steps I followed:
- 
-Load all the required data records (tables) to Microsoft Excel
-Clean and transform the raw data.
-Removed irrelevant data like rows where sales amount is 0 or negative.
-removed other countries as we are looking for sales insight in India.
-Normalized data by creating new conditional column to convert other currencies to INR as we are looking for sales insight in India.
-Build a relational data model.
-Created required calculated coloums and DAX measures
 
 
 
