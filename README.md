@@ -19,6 +19,24 @@
 ![image](https://github.com/NikhilGupta2024/Sales-and-Finance-Analysis-of-Atliq-Hardwares/assets/158210072/f7f5163c-a38d-44fd-97dc-ceed3d2a0f5a)
 
 
+![image](https://github.com/NikhilGupta2024/Sales-and-Finance-Analysis-of-Atliq-Hardwares/assets/158210072/76b5be0b-0afe-43f2-9efe-ce007a58a2d6)
+
+
+![image](https://github.com/NikhilGupta2024/Sales-and-Finance-Analysis-of-Atliq-Hardwares/assets/158210072/f07b336c-982b-44f5-af09-55fd771663ea)
+
+
+![image](https://github.com/NikhilGupta2024/Sales-and-Finance-Analysis-of-Atliq-Hardwares/assets/158210072/eb61f475-56bf-4af5-ab2b-fd2a6e5ff701)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
